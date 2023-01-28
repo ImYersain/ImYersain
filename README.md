@@ -1,6 +1,6 @@
 <b>👋 Hi, I’m Yersain</b> 
 - 💻  I’m frontend developer from Kazakhstan but currently in Czech Republic 
-- 📫 For some questions, you can easy contact me here: 
+- 📫 For any questions, you can easily contact me here: 
  <br />
  Email: ersainaldabaev@gmail.com
  <br />
