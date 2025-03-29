@@ -12,3 +12,5 @@
 📌 I also have GITLAB (https://gitlab.com/ImYersain), with startup we building with my friend (we already
 have FE, UI KIT, BE), repository for sure is private, but if you want to
 see, tell me.
+<br />
+<img width="818" alt="Screenshot 2025-03-29 at 12 54 15" src="https://github.com/user-attachments/assets/c8b06f11-80ff-407e-afc0-cc5acbc2f675" />
