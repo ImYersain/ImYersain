@@ -1,5 +1,5 @@
 <b>👋 Hi, I’m Yersain</b> 
-- 💻  I’m frontend developer, who lives in Czech Republic. 
+- 💻  I’m frontend developer, who lives in Czech Republic, Prague. 
 - 📫 For any questions, you can easily contact me here: 
  <br />
  Email: ersainaldabaev@gmail.com
